@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/iblog.git
+git clone https://github.com/Paromita-maji/iblog.git
 cd iblog
 Open the Project:
 Open the project folder in your preferred code editor. 🖥️
@@ -54,3 +54,5 @@ Contact
 For any inquiries or feedback, feel free to contact us at mparo1221@gmail.com 📧
 
 Thank you for choosing iBlog! We hope you enjoy your time exploring our content and find it informative and engaging.
+
+![Screenshots]https://github.com/Paromita-maji/Blog-Application/tree/main/ss
